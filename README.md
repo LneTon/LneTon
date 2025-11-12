@@ -42,7 +42,7 @@ learning to think through systems, build them from scratch, and refine how thing
 
   <tr>
     <td style="padding: 6px;">02</td>
-    <td style="padding: 6px;"><a href="https://github.com/LneTon/so_long41">so_long</a></td>
+    <td style="padding: 6px;"><a href="https://github.com/LneTon/so_long42">so_long</a></td>
     <td style="padding: 6px;">First graphical project — 3D wireframe landscapes using MiniLibX.</td>
   </tr>
 
