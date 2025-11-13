@@ -48,7 +48,7 @@ learning to think through systems, build them from scratch, and refine how thing
 
   <tr>
     <td style="padding: 6px;">03</td>
-    <td style="padding: 6px;"><a href="https://github.com/LneTon/minishell">minishell</a></td>
+    <td style="padding: 6px;"><a href="https://github.com/LneTon/minishellcollab">minishell</a></td>
     <td style="padding: 6px;">Developing a simplified Unix-like shell with process management and built-ins.</td>
   </tr>
 
