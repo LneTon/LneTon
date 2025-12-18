@@ -1,7 +1,4 @@
-## 42 Berlin · Software Engineering Journey
-
-A continuous exercise in logic, structure, and creative problem-solving —  
-learning to think through systems, build them from scratch, and refine how things work beneath the surface.
+## 42 Berlin · Software Engineering
 
 <table style="border-collapse: collapse; width: 100%; font-size: 0.95rem; line-height: 1.6;">
   <tr>
